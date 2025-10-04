@@ -1,6 +1,7 @@
 import react, { useState } from "react";
 import {
   BrowserRouter,
+  HashRouter,
   Router,
   Routes,
   Route,
@@ -36,7 +37,7 @@ function AppLayout() {
         <Route path="/register" element={<RegisterForm />} />
         <Route path="/logout" element={<Logout />} />
       </Routes>
-
+  
     </div>
   );
 }
@@ -45,7 +46,9 @@ function App() {
   return (
     <div>
       //<BrowserRouter>
+    <HashRouter>
         <AppLayout />
+    </HashRouter>
       //</BrowserRouter>
     </div>
   );
