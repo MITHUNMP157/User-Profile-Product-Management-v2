@@ -44,9 +44,9 @@ function AppLayout() {
 function App() {
   return (
     <div>
-      <BrowserRouter>
+      //<BrowserRouter>
         <AppLayout />
-      </BrowserRouter>
+      //</BrowserRouter>
     </div>
   );
 }
