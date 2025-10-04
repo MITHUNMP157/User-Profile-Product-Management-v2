@@ -45,11 +45,10 @@ function AppLayout() {
 function App() {
   return (
     <div>
-      //<BrowserRouter>
-    <HashRouter>
+<BrowserRouter>
+
         <AppLayout />
-    </HashRouter>
-      //</BrowserRouter>
+</BrowserRouter>
     </div>
   );
 }
