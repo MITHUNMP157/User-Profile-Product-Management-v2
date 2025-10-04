@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/MITHUNMP157/User-Profile-Product-Management.git/static/css/main.516c126f.css",
+    "main.js": "/MITHUNMP157/User-Profile-Product-Management.git/static/js/main.06a9ed8a.js",
+    "static/media/tablet.jpeg": "/MITHUNMP157/User-Profile-Product-Management.git/static/media/tablet.3fbbc0980b286ae15fe2.jpeg",
+    "static/media/camera.png": "/MITHUNMP157/User-Profile-Product-Management.git/static/media/camera.2ff1218b07c2fb6000f5.png",
+    "static/media/mobile.webp": "/MITHUNMP157/User-Profile-Product-Management.git/static/media/mobile.e286f2a55308dd934d7f.webp",
+    "static/media/Keyboard.jpeg": "/MITHUNMP157/User-Profile-Product-Management.git/static/media/Keyboard.d1c73e821be823898480.jpeg",
+    "static/media/bluetoothSpeaker.jpeg": "/MITHUNMP157/User-Profile-Product-Management.git/static/media/bluetoothSpeaker.dfc22c5493b2cfd43995.jpeg",
+    "static/media/headphone.webp": "/MITHUNMP157/User-Profile-Product-Management.git/static/media/headphone.0f2d02e089e9d1d4f79b.webp",
+    "static/media/laptop.jpg": "/MITHUNMP157/User-Profile-Product-Management.git/static/media/laptop.8e716d82396db975e277.jpg",
+    "static/media/Mouse.jpeg": "/MITHUNMP157/User-Profile-Product-Management.git/static/media/Mouse.b7b560325936962fc338.jpeg",
+    "static/media/smartwatch.jpeg": "/MITHUNMP157/User-Profile-Product-Management.git/static/media/smartwatch.5c897d00fc931d8c23c9.jpeg",
+    "index.html": "/MITHUNMP157/User-Profile-Product-Management.git/index.html",
+    "main.516c126f.css.map": "/MITHUNMP157/User-Profile-Product-Management.git/static/css/main.516c126f.css.map",
+    "main.06a9ed8a.js.map": "/MITHUNMP157/User-Profile-Product-Management.git/static/js/main.06a9ed8a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.516c126f.css",
+    "static/js/main.06a9ed8a.js"
+  ]
+}
